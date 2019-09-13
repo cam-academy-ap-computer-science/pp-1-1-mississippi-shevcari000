@@ -5,7 +5,7 @@ public class Mississippi {
 		// TODO Auto-generated method stub
 		DrawM();
 		DrawI();
-
+		
 	}
     public static void DrawM () {
     	System.out.println ("M     M");
@@ -16,10 +16,17 @@ public class Mississippi {
     	System.out.println ("M     M");
     	System.out.println ("M     M");
     }
-   public static void DramI () {
-	    System.out.println ("IIIII");
-	    System.out.println ("  I  ");
-	    System.out.println ("  I  ");
-   } 
-}
+   public static void DrawI () {
+	    System.out.println  ("IIIII");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("IIIII");
+	    
+   }}
+
+    
+
 
