@@ -5,7 +5,18 @@ public class Mississippi {
 		// TODO Auto-generated method stub
 		DrawM();
 		DrawI();
+		DrawS();
+		DrawS();
+		DrawI();
+		DrawS();
+		DrawS();
+		DrawI();
+		DrawP();
+		DrawP();
+		DrawI();
 		
+		
+			
 	}
     public static void DrawM () {
     	System.out.println ("M     M");
@@ -16,17 +27,118 @@ public class Mississippi {
     	System.out.println ("M     M");
     	System.out.println ("M     M");
     }
-   public static void DrawI () {
+    public static void DrawI () {
 	    System.out.println  ("IIIII");
 	    System.out.println  ("  I  ");
 	    System.out.println  ("  I  ");
 	    System.out.println  ("  I  ");
 	    System.out.println  ("  I  ");
 	    System.out.println  ("  I  ");
-	    System.out.println  ("IIIII");
-	    
-   }}
+	    System.out.println  ("IIIII");	    
+    }
+    
+    public static void DrawS () {
+	   System.out.println (" SSSSS ");
+	   System.out.println ("S     S");
+	   System.out.println ("S      ");
+	   System.out.println (" SSSSS ");
+	   System.out.println ("      S");
+	   System.out.println ("S     S");
+	   System.out.println (" SSSSS ");
+	 
+   }
+   
+    public static void DrawS () {
+       System.out.println (" SSSSS ");
+	   System.out.println ("S     S");
+	   System.out.println ("S      ");
+	   System.out.println (" SSSSS ");
+	   System.out.println ("      S");
+	   System.out.println ("S     S");
+	   System.out.println (" SSSSS ");
+	  
+    }
+    
+    public static void DrawI () {
+        System.out.println  ("IIIII");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("  I  ");
+	    System.out.println  ("IIIII");	    
 
+    }
+    
+    public static void DrawS () {
+        System.out.println (" SSSSS ");
+  	    System.out.println ("S     S");
+  	    System.out.println ("S      ");
+  	    System.out.println (" SSSSS ");
+  	    System.out.println ("      S");
+  	    System.out.println ("S     S");
+  	    System.out.println (" SSSSS ");
+  	  
+    }
+    
+     public static void DrawS () {
+        System.out.println (" SSSSS ");
+	    System.out.println ("S     S");
+	    System.out.println ("S      ");
+	    System.out.println (" SSSSS ");
+	    System.out.println ("      S");
+	    System.out.println ("S     S");
+	    System.out.println (" SSSSS ");
+	    
+     }
+     
+     public static void DrawI () {
+        System.out.println  ("IIIII");
+ 	    System.out.println  ("  I  ");
+ 	    System.out.println  ("  I  ");
+ 	    System.out.println  ("  I  ");
+ 	    System.out.println  ("  I  ");
+ 	    System.out.println  ("  I  ");
+ 	    System.out.println  ("IIIII"); 
+ 	    
+     }
+     
+     public static void DrawP () {
+    	System.out.println ("PPPPPP ");
+    	System.out.println ("P     P");
+    	System.out.println ("P     P");
+    	System.out.println ("PPPPPP ");
+    	System.out.println ("P      ");
+    	System.out.println ("P      ");
+    	System.out.println ("P      ");
+    	
+     }
+     
+     public static void DrawP () {
+    	System.out.println ("PPPPPP ");
+     	System.out.println ("P     P");
+     	System.out.println ("P     P");
+     	System.out.println ("PPPPPP ");
+     	System.out.println ("P      ");
+     	System.out.println ("P      ");
+     	System.out.println ("P      ");
+     		
+     }
+       
+     public static void DrawI () {
+    	System.out.println  ("IIIII");
+  	    System.out.println  ("  I  ");
+  	    System.out.println  ("  I  ");
+  	    System.out.println  ("  I  ");
+  	    System.out.println  ("  I  ");
+  	    System.out.println  ("  I  ");
+  	    System.out.println  ("IIIII");
+     }}
+    	 
+     
+	 
+   
+   
     
 
 
