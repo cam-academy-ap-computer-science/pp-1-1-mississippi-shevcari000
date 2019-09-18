@@ -1,4 +1,11 @@
-
+/* Grading Notes
+25/25 points
+Best practice indicates that method names should be lower camel case (starting with a lower-case letter) drawM for example. 
+I did not deduct points for upper case method names on this project.
+It would be more efficient to add the new line character within each letter method, 
+rather than having a method that just makes a new line. I did not deduct any points for this.
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
